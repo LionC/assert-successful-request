@@ -1,0 +1,25 @@
+{
+  "name": "assert-successful-request",
+  "version": "1.0.0",
+  "description": "Simple callback function to assert successful HTTP responses made with the request module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionC/assert-successful-request.git"
+  },
+  "keywords": [
+    "assert",
+    "http",
+    "request",
+    "successful",
+    "response",
+    "status",
+    "code"
+  ],
+  "author": "Leon \"LionC\" Strauss <me@lionc.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LionC/assert-successful-request/issues"
+  },
+  "homepage": "https://github.com/LionC/assert-successful-request#readme"
+}
