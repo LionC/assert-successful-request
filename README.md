@@ -7,7 +7,7 @@ request module
 ```js
 const assertSuccessfulResponse = require('assert-successful-request-callback')
 
-request({ uri: 'https://google.com' }, assertSuccessfulResponse);
+request({ uri: 'https://google.com' }, assertSuccessfulResponse)
 ```
 
 Simply pass the function as a callback to your `request`-call to assert that
