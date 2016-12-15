@@ -1,6 +1,6 @@
 {
   "name": "assert-successful-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple callback function to assert successful HTTP responses made with the request module",
   "main": "index.js",
   "repository": {
