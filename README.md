@@ -1,11 +1,11 @@
-# assert-successful-request-callback
+# assert-successful-request
 Simple callback function to assert successful HTTP responses made with the
 request module
 
 ## How to use
 
 ```js
-const assertSuccessfulResponse = require('assert-successful-request-callback')
+const assertSuccessfulResponse = require('assert-successful-request')
 
 request({ uri: 'https://google.com' }, assertSuccessfulResponse)
 ```
